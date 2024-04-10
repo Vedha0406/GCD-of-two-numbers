@@ -21,7 +21,6 @@ Register No:212223240171
 ---
 
 
-
 def gcd():
 
     n1,n2=int(input()),int(input())
